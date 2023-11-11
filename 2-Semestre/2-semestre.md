@@ -2,6 +2,7 @@
 
 <div align="center"> Projeto Integrador - 2° Semestre | Fatec Prof. Jessen Vidal - 2022 | Cliente parceiro: Dom Rock </div>
 
+<div align="center"><img src="https://github.com/fluffyfatec/Dom_Rock/blob/main/GIT/cabecario2.jpg" width="60%" height="55%"></div>
 
 ## Visão do Projeto
 
