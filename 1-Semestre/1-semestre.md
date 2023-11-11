@@ -4,6 +4,11 @@
 
 <div align="center"><img align="center" src="https://github.com/fluffyfatec/SPanel/blob/main/Sprint_2/assets/logospanel3.png" width="60%" height="55%"></div>
 
+<div align="center">
+<br>
+
+[Repositório](https://github.com/fluffyfatec/SPanel)
+</div>
 ## Visão do Projeto
 
 ## Tecnologias adotadas na solução
