@@ -3,6 +3,11 @@
 <div align="center"> Projeto Integrador - 4° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: Embraer </div>
 
 <div align="center"><img src="https://github.com/PatrickSouzza/Projeto-Integrador-Embraer/blob/main/GIT/head.jpeg" width="60%" height="55%"></div>
+<div align="center">
+<br>
+
+[Repositório](https://github.com/fluffyfatec/Projeto-Integrador-Embraer)
+</div>
 
 ## Visão do Projeto
 
