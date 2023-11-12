@@ -40,4 +40,4 @@ Além de cadastrar, também possui a função de consulta, edição, relatórios
 
 ## Contribuições pessoais
 
-### Aprendizados Efetivos HS
+## Aprendizados Efetivos
