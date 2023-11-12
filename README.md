@@ -19,7 +19,7 @@ Ao longo dos meus estudos durante esses 5 semestres, concentrei-me não apenas n
 
 Estou empenhado em me tornar um profissional completo na área de Desenvolvimento de Software e Banco de Dados, buscando constantemente atualizações e aprimoramentos para acompanhar as demandas do mercado e fornecer soluções eficientes para os desafios enfrentados pelas empresas.
 
-Atualmente, ocupo a posição de estagiário no setor de desenvolvimento de software multiplataforma na Embraer. No escopo das minhas atribuições, destaco-me pelo desempenho de atividades que abrangem o levantamento de requisitos, bem como o desenvolvimento integral do software, tanto na esfera de back-end quanto front-end. Além disso, sou responsável pela modelagem de dados, contribuindo assim de maneira abrangente para o ciclo de vida do desenvolvimento de software na organização.
+Atualmente, ocupo a posição de estagiário de desenvolvimento de software multiplataforma na Embraer. No escopo das minhas atribuições, destaco-me pelo desempenho de atividades que abrangem o levantamento de requisitos, bem como o desenvolvimento integral do software, tanto na esfera de back-end quanto front-end. Além disso, sou responsável pela modelagem de dados, contribuindo assim de maneira abrangente para o ciclo de vida do desenvolvimento de software na organização.
 
 
 
