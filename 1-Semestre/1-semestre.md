@@ -32,5 +32,5 @@ Com o intuito de melhorar e facilitar o acesso aos números da COVID-19 disponib
 
 ## Contribuições pessoais
 
-### Aprendizados Efetivos HS
+### Aprendizados Efetivos
 
