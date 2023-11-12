@@ -62,7 +62,7 @@ Adotei uma abordagem modular na criação de componentes Vue, promovendo a reuti
 
 ### Estilização com CSS:
 
-#### Design Responsivo:
+#### Design Responsivo
 
 Implementei media queries de forma estratégica para garantir que a aplicação fosse visualmente agradável e funcional em diversos dispositivos, como desktops, tablets e smartphones.
 Ajustei o layout e a disposição dos elementos, garantindo uma experiência consistente e intuitiva em todas as resoluções de tela.
