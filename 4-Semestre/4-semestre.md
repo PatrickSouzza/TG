@@ -72,6 +72,9 @@ Implementei variáveis de estilo para facilitar a manutenção e ajustes futuros
 </details>
 <details>
   <summary>Banco de Dados</summary>
+  
+### Conexão do Autonomous Database
+Executei a conexão do banco de dados com a aplicação, por meio da pasta Wallet, e configurando todo o ambiente em que o Banco de dados estava hospedado.
 
 ### Modelagem de Dados:
 Contribui para a modelagem de dados de forma eficiente, considerando as relações entre entidades e as necessidades específicas da Embraer. Garanti que a estrutura do banco de dados fosse intuitiva e otimizada para consultas frequentes.
@@ -87,3 +90,11 @@ A documentação pode ser encontrada em [Repositorio do projeto](https://github.
 
 ## Aprendizados Efetivos
 
+### Primeiro contato com Vue
+Neste projeto tive minha experiência inicial com o Vue, que proporcionou não apenas uma introdução valiosa ao framework, mas também um entendimento mais amplo das melhores práticas no desenvolvimento de interfaces interativas e reativas. A agilidade proporcionada pelo Vue aliada à sua eficácia na construção de aplicações web modernas representa uma base sólida para futuros projetos mais complexos.
+
+### Implementação de layouts responsivos usando media queries.
+Implementei layouts responsivos utilizando media queries, a experiência prática com media queries me permitiu compreender como otimizar a experiência do usuário em dispositivos com diferentes resoluções, destacando a importância de considerar a responsividade desde o início do desenvolvimento de uma aplicação web. Criei media queries que se ajustavam em Web, smartphones e Tablets.
+
+### Banco de dados.
+Durante a execução do projeto, deparei-me com a necessidade de empregar conceitos que não havia explorado anteriormente, dentre os quais se destacam Triggers, Sequences e Views. Esses elementos desempenharam um papel significativo na implementação eficiente de determinadas funcionalidades, acrescentando camadas de complexidade e refinamento ao meu conjunto de habilidades.
