@@ -45,4 +45,37 @@ A gestão de fornecedores vai da avaliação de desempenho ao monitoramento de c
 
 ## Contribuições pessoais
 
-### Aprendizados Efetivos
+<details>
+  <summary>Front-End</summary>
+  
+### Desing e criação de telas
+
+### Importação dos dados via CSV
+
+### Criação das tabelas
+
+### Criação de filtros para as tabelas
+
+### Integração do PowerBI com a aplicação
+
+</details>
+
+<details>
+  <summary>Back-End</summary>
+  
+  ### Importação dos dados via CSV
+  
+</details>
+
+## Aprendizados Efetivos
+
+### Upload CSV - Front-End
+
+### Upload CSV - Back-End
+
+### Integração entre aplicação e PowerBI
+
+
+
+
+
